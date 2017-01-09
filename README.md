@@ -1,2 +1,2 @@
 # TimeCaptorWeb
-Time captor webserver show case
+Time captor webserver show case, for test.
